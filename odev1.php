@@ -10,3 +10,4 @@ function ucgen($i){
     }
 }
 echo ucgen(15);
+?>
